@@ -1,0 +1,25 @@
+_repo: Memoirs-of-Henry-Hunt-Esq-Volume-2_8461
+creator:
+  author:
+    agent_name: Hunt, Henry
+    alias: Hunt, H. (Henry)
+    birthdate: 1773
+    deathdate: 1835
+    gutenberg_agent_id: '2761'
+    url: http://www.gutenberg.org/2009/agents/2761
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Hunt_(politician)
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunt, Henry, 1773-1835'
+- !lcc 'DA'
+- !lcsh 'Social reformers -- Great Britain -- Biography'
+title: Memoirs of Henry Hunt, Esq. — Volume 2
+url: http://www.gutenberg.org/ebooks/8461
